@@ -1,8 +1,5 @@
 # Analytics & Reporting Dashboard
 
-![Dashboard Screenshot](path/to/your/screenshot.png)
-_(Tips: Ambil screenshot bagus dari dashboard Anda, taruh di folder proyek, dan ganti path di atas)_
-
 Proyek ini adalah sebuah dashboard analitik full-stack yang dibangun sebagai bagian dari tugas perekrutan. Aplikasi ini menampilkan data penjualan supermarket, melakukan proses ETL dari data mentah ke database PostgreSQL, dan menyajikannya melalui API backend ke antarmuka frontend yang interaktif.
 
 ## Fitur Utama
