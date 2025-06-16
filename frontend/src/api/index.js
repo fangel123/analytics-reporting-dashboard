@@ -6,4 +6,4 @@ export const fetchProductRanking = () =>
 export const fetchSalesCorrelation = () =>
   axios.get(`${API_URL}/sales/correlation`);
 export const fetchStateHeatmapData = () =>
-  axios.get(`${API_URL}/sales/heatmap-by-country`);
+  axios.get(`${API_URL}/sales/heatmap-by-state`);

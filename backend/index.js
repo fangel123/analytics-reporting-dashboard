@@ -44,7 +44,7 @@ app.get("/api/sales/correlation", async (req, res) => {
   }
 });
 
-app.get("/api/sales/heatmap-by-country", async (req, res) => {
+app.get("/api/sales/heatmap-by-state", async (req, res) => {
   try {
     const result = await pool.query(`
       SELECT state, SUM(quantity) AS total_quantity
