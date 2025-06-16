@@ -1,5 +1,14 @@
 # Analytics & Reporting Dashboard
 
+## 🚀 Tautan Aplikasi Langsung (Live Demo)
+
+## Tautan Langsung (Live Links)
+
+- **Frontend / Dashboard Utama:** [https://analytics-reporting-dashboard-2tkwy44i0.vercel.app/](https://analytics-reporting-dashboard-2tkwy44i0.vercel.app/)
+- **API Backend:** `https://analytics-reporting-dashboard-production.up.railway.app/api`
+
+---
+
 Proyek ini adalah sebuah dashboard analitik full-stack yang dibangun sebagai bagian dari tugas perekrutan. Aplikasi ini menampilkan data penjualan supermarket, melakukan proses ETL dari data mentah ke database PostgreSQL, dan menyajikannya melalui API backend ke antarmuka frontend yang interaktif.
 
 ## Fitur Utama
