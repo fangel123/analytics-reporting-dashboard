@@ -1,5 +1,3 @@
-// frontend/src/components/charts/ProductPieChart.jsx
-
 import Plot from "react-plotly.js";
 import { useQuery } from "@tanstack/react-query";
 import { fetchProductRanking } from "../../api";
